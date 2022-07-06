@@ -7,3 +7,7 @@ What is a prototype
 Scope of variables
 What are the gcc flags -Wall -Werror -pedantic -Wextra -std=gnu89
 What are header files and how to to use them with #include
+
+TASKS:
+-------
+0. _putchar | Write a program that prints _putchar, followed by a new line.

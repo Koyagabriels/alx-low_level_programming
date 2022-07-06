@@ -11,7 +11,7 @@ void print_alphabet_x10(void)
 	while (i <= 9)
 	{
 		int c = 'a';
-	
+
 		while (c <= 'z')
 		{
 			_putchar(c);
